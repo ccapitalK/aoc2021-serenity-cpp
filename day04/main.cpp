@@ -58,7 +58,7 @@ ErrorOr<int> serenity_main(Main::Arguments)
     auto file = TRY(Core::File::open("input", Core::OpenMode::ReadOnly));
     order = file->read_line().split(',');
     Vector<i64> order;
-    // HACK democratically vot  ed on by SOME members of SerenityOS staff
+    // HACK democratically voted on by SOME members of SerenityOS staff
     auto rest_of_file = String::copy(file->read_all())
         .replace("\n\n", "X", true)
         .replace("\n", " ", true);
