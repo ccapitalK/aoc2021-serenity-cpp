@@ -71,3 +71,7 @@ TODO:
 		7636.598 CrashReporter(712:712): perror(): unveil: Operation not permitted
 		7636.600 [#0 FinalizerTask(4:4)]: Process 'CrashReporter' exited with the veil left open
     [ ] [Feature] Recent projects menu in Hack Studio
+    [ ] Ctrl+P Crashes Hack studio?
+    [ ] [Optimization] The runner window could be a little more snappy
+    [ ] [Hard Repro] I once saw part of the command output be printed beyond the `(Command exited with 0)` line in HS Command Output
+    [ ] [Feature] Maybe Build and Output tabs should be separate in HS?
