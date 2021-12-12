@@ -75,3 +75,4 @@ TODO:
     [ ] [Optimization] The runner window could be a little more snappy
     [ ] [Hard Repro] I once saw part of the command output be printed beyond the `(Command exited with 0)` line in HS Command Output
     [ ] [Feature] Maybe Build and Output tabs should be separate in HS?
+    [ ] [Feature] Open project on selected folder in top left dir browser
